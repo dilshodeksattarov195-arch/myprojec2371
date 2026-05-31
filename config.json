@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersalculate",
+        "uuid": 7897801,
+        "checksum": "pxt0bh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
